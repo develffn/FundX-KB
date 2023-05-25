@@ -1,8 +1,8 @@
 ---
 description: >-
-  Here you’ll find all the detailed documentation for FundX features, learn
-  how to create and customize your Workspace, understand all settings, get to
-  know advanced features, and more
+  Here you’ll find all the detailed documentation for FundX features, learn how
+  to create and customize your Workspace, understand all settings, get to know
+  advanced features, and more
 ---
 
 # Welcome to FundX Help
@@ -13,13 +13,12 @@ description: >-
 
 </div>
 
-
-
 For the answers you can't find in the Knowledge Base, please contact us via the following options:
 
-* [**Telegram Support Chat**](https://t.me/quantower)
-* [**Live Chat on our website**](https://www.quantower.com/) (pop-up window in the lower right)
-* Email us at **info@quantower.com**
+
+
+* [**Live Support on our website**](https://www.fundedfuturesnetwork.com) (pop-up window in the lower right)
+* Email us at Support@fundedfuturesnetwork**.com**
 
 For ease of navigation, the Knowledge Base is divided into several categories that will allow you to quickly find the information you need:
 

@@ -4,7 +4,7 @@
 
 Moving average convergence/divergence(MACD) indicator graphically describes the mathematical difference between fast and slow exponential moving averages. The third line is called a “signal line”. Common periods of moving averages are: 26 for a slow EMA, 12 for a fast and 9 for a signal line.
 
-![](../../../../.gitbook/assets/screenshot\_4.png)
+![](<../../../../.gitbook/assets/Screenshot\_4 (1).png>)
 
 ## Formula
 
@@ -12,7 +12,7 @@ Fast EMA - Slow EMA
 
 ## Most useful cases
 
-* **Divergence/Convergence** - Divergence/Convergence pattern is a form of price action when new high(low) on the price scale not confirmed with a new high of  MACD. Such price and indicator’s behavior can be interpreted as the weakness of current existing trend.
+* **Divergence/Convergence** - Divergence/Convergence pattern is a form of price action when new high(low) on the price scale not confirmed with a new high of MACD. Such price and indicator’s behavior can be interpreted as the weakness of current existing trend.
 
 ![](../../../../.gitbook/assets/screenshot\_3.png)
 

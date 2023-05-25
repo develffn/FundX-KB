@@ -10,7 +10,7 @@ Each time you place an order in FundX — you do it immediately by pressing a co
 
 Here comes the functionality of Order placing strategies, allowing simple automation of complex order submission. You can find the corresponding control in every Order entry panel or sidebar.
 
-![Order placing strategy control in FundX Order entry](../../../.gitbook/assets/Screenshot\_4.png)
+![Order placing strategy control in FundX Order entry](<../../../.gitbook/assets/Screenshot\_4 (1).png>)
 
 To apply some Order placing strategy, you should:
 
@@ -41,5 +41,5 @@ You can find all of the active and finished Placing strategies in the correspond
 ## Please pay attention!
 
 {% hint style="warning" %}
-<mark style="color:orange;">All automation of Placing strategies</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**works while the platform is functioning**</mark><mark style="color:orange;">. When you close your platform, it will delete all automation without the possibility to restore it</mark>
+<mark style="color:orange;">All automation of Placing strategies</mark> <mark style="color:orange;">**works while the platform is functioning**</mark><mark style="color:orange;">. When you close your platform, it will delete all automation without the possibility to restore it</mark>
 {% endhint %}

@@ -188,8 +188,8 @@
   * [Introduction](quantower-algo/introduction.md)
   * [Install for Visual Studio](quantower-algo/installing-visual-studio.md)
   * [Strategy runner (deprecated)](quantower-algo/strategy-runner.md)
-  * [Strategies manager](quantower-algo/strategies-manager.md)
-  * [Backtest & Optimize](quantower-algo/backtest-and-optimize.md)
+  *
+  *
   * [Simple Indicator](quantower-algo/simple-indicator.md)
   * [Simple strategy](quantower-algo/simple-strategy.md)
   * [Input Parameters](quantower-algo/input-parameters.md)

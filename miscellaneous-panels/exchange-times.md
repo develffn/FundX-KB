@@ -8,7 +8,7 @@ description: >-
 
 ## General
 
-Many traders are watching several Exchanges in different time zones and need to convert their local time to Exchange time and back many times.
+Many traders are watching different Exchanges in different time zones and need to convert their local time to Exchange time and back many times.
 
 ![Exchange times panel](../.gitbook/assets/exchangetimes.png)
 

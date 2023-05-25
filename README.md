@@ -9,7 +9,7 @@ description: >-
 
 <div align="center">
 
-<img src=".gitbook/assets/main-workspace-for-help.png" alt="">
+<img src=".gitbook/assets/main-workspace-for-help.png" alt="Brought to you by: FUNDED FUTURES NETWORK">
 
 </div>
 

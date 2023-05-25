@@ -1,13 +1,13 @@
 ---
 description: >-
-  One of the most popular payment methods for Quantower licenses — is a
+  One of the most popular payment methods for FundX licenses — is a
   Coinpayments service. It allows paying for advanced functionalities by various
   crypto assets (coins).
 ---
 
 # “Coinpayments” payment
 
-While the process of coins transfer between digital wallets is pretty usual and straightforward, we decided to mention some additional aspects of Quantower license purchase using crypto coins.
+While the process of coins transfer between digital wallets is pretty usual and straightforward, we decided to mention some additional aspects of FundX license purchase using crypto coins.
 
 When you decide to pay for a license using your crypto-assets, you should press “Buy” for the required feature. Next, you should click “Pay with Coinpayments”. Now, you will be redirected to Coinpayments merchant where you should select a coin and then — “Complete Checkout”. You can register here, but it is not necessary.
 
@@ -53,10 +53,10 @@ Let’s say that you’ve sent your coins and now waiting for the license assign
 **To check whether your license was assigned to your account**, you should monitor the following sources:
 
 * your account’s email address, where you should receive a notification about the successful payment;
-* in your [Quantower account panel](http://accounts.quantower.com), in the Payments History section.
+* in your [FundX account panel](http://accounts.quantower.com), in the Payments History section.
 
 Once we receive approval from Coinpayments, we will immediately assign you a license and send you a confirmation email about the successful purchase. From this moment you can use your advanced feature.\
 
 
-![Quantower license payment is successfull](../.gitbook/assets/screenshot\_9.png)
+![FundX license payment is successfull](../.gitbook/assets/screenshot\_9.png)
 

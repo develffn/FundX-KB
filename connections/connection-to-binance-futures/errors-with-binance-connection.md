@@ -1,7 +1,7 @@
 ---
 description: >-
   Here are descriptions of the most common errors when working with or
-  connecting to Binance Futures / Binance Spot in Quantower platform
+  connecting to Binance Futures / Binance Spot in FundX platform
 ---
 
 # Errors with Binance connection
@@ -48,7 +48,7 @@ Check that your **API Key** and **API Secret** are correct.
 
 **"TimeStamp"** error occurs when the time on the Binance server does not match the time on the user's computer.
 
-![Binance Futures error in Quantower - Timestamp for the request](<../../.gitbook/assets/image (89).png>)
+![Binance Futures error in FundX - Timestamp for the request](<../../.gitbook/assets/image (89).png>)
 
 To solve it, please, go to **Windows Settings > Time & Language >** and click on **Sync Now** button**.**
 
@@ -86,7 +86,7 @@ This error occurs when **you don't have enough funds on the balance**. Check you
 
 ### Error "This listenKey does not exist"
 
-This error occurs when a trader connects to Binance exchange with the same API Key on various platforms. Each platform must have its own API Key. **Generate a new API key for Quantower platform**.
+This error occurs when a trader connects to Binance exchange with the same API Key on various platforms. Each platform must have its own API Key. **Generate a new API key for FundX platform**.
 
 ### An error has occurred: "I can't close the position. Request was executed partially - the value of the open position is less than $5.&#x20;
 

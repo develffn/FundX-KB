@@ -3,7 +3,7 @@
 In this example we will develop a simple moving average indicator. Let's, create an indicator template project and start.
 
 {% hint style="info" %}
-See examples of some strategies, integrations and indicators in our [Github repository](https://github.com/Quantower/Examples)
+See examples of some strategies, integrations and indicators in our [Github repository](https://github.com/FundX/Examples)
 {% endhint %}
 
 ### Input parameters

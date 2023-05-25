@@ -6,13 +6,13 @@ description: >-
 
 # Chart Types
 
-Quantower offers a variety of chart types to help you display chart data in different formats. You can change chart type from _**Aggregation type**_ menu as shown below.
+FundX offers a variety of chart types to help you display chart data in different formats. You can change chart type from _**Aggregation type**_ menu as shown below.
 
 ![Switch between different time frames in one click](<../../../.gitbook/assets/image (180).png>)
 
 ### Chart types and styles
 
-Quantower provides **10 chart types**:
+FundX provides **10 chart types**:
 
 * ****[**Tick chart**](tick-chart.md)****
 * ****[**Time chart**](https://help.quantower.com/analytics-panels/chart/chart-types/time-aggregation)****
@@ -25,7 +25,7 @@ Quantower provides **10 chart types**:
 * ****[**Volume**](volume-bars.md)****
 * ****[**Reversal**](reversal-bars.md)****
 
-![Chart types in Quantower](../../../.gitbook/assets/period-selector.png)
+![Chart types in FundX](../../../.gitbook/assets/period-selector.png)
 
 Charts can also be represented in **6 different styles**:
 
@@ -34,6 +34,6 @@ Charts can also be represented in **6 different styles**:
 * **Line**
 * **Dotted Line**
 * **Area**
-* **Quantower**
+* **FundX**
 
-![Chart styles in Quantower — Candle, Bar, Line, Dotted Line, Area, Quantower style](<../../../.gitbook/assets/chart-styles (1).png>)
+![Chart styles in FundX — Candle, Bar, Line, Dotted Line, Area, FundX style](<../../../.gitbook/assets/chart-styles (1).png>)

@@ -1,6 +1,6 @@
 ---
 description: >-
-  Quantower provides a Trading simulator, the excellent trading tool that allows
+  FundX provides a Trading simulator, the excellent trading tool that allows
   emulating the execution of orders under any connection, including those that
   do not allow trading.
 ---
